@@ -1,10 +1,6 @@
 ﻿/*
-Grading ID SS340
 CIS 199-50
-Program 3 
-Due: 03/31/2023
 Purpose: create a form that calculates the price of a car after discounts, downpayments and loans using loops to search arrayssequencial search and range match parallel arrays
-
 */
 using System;
 using System.Collections.Generic;
